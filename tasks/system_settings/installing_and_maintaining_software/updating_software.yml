@@ -1,3 +1,0 @@
-- import_tasks: updating_software/redhat.yml
-  when: ansible_distribution == "Fedora" or ansible_distribution == "RedHat" or ansible_distribution == "CentOS"
-

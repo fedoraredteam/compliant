@@ -1,3 +1,0 @@
----
-- name: pass audit=1 to kernel in bootloader with grubby
-  shell: /sbin/grubby --update-kernel=ALL --args="audit=1"
